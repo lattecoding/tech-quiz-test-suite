@@ -37,7 +37,7 @@ For running in a terminal, input the following commands:
 `npm run start:dev`
 
 In a seperate terminal window, run the following:
-`npm run test`
+`npm run test` or `npm run cypress`
 
 ## GitHub
 [GitHub](https://github.com/lattecoding/tech-quiz-test-suite)
