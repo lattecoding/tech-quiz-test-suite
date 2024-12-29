@@ -15,7 +15,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Cookify is a web application that helps users find recipes to make using a Spoonaculator API. We also implemented a YouTube API to easily search videos. The idea is you find a recipe to make, if you get stuck and need a video guide, you can quickly search how to complete a step.
+Cypress Component and E2E testing for applications
 
 ## Installation
 Cypress for component and e2e testing
